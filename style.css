@@ -1,13 +1,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Lobster+Two:wght@400;700&family=Roboto:wght@100;300;400;500;700&display=swap");
 
-* {
-  font-family: "Arial", sans-serif;
-}
-
 h1,
 h2,
 h3 {
   font-family: "Lobster Two", cursive;
+}
+
+p,
+li,
+dt,
+dd {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+header p {
+  font-weight: 500;
 }
 
 section {
@@ -71,20 +83,28 @@ section h2 {
 
 .pink {
   background-color: #f9ceee;
+  color: #580e46;
 }
 
 .yellow {
   background-color: #ffebaf;
+  color: #582d04;
 }
 
 .blue {
   background-color: #c1f0fb;
+  color: #033844;
 }
 
 .green {
   background-color: #dcf9a8;
+  color: #3a5704;
 }
 
 .lilac {
   background-color: #e0cdff;
+}
+
+.contact p {
+  margin-bottom: 8px;
 }
