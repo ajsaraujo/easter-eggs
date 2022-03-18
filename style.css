@@ -1,3 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:wght@400;700&family=Roboto:wght@100;300;400;500;700&display=swap");
+
+* {
+  font-family: "Arial", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Lobster Two", cursive;
+}
+
 section {
   padding: 0 16px;
 }
@@ -57,22 +69,22 @@ section h2 {
   margin-bottom: 8px;
 }
 
-.pink-bg {
+.pink {
   background-color: #f9ceee;
 }
 
-.yellow-bg {
+.yellow {
   background-color: #ffebaf;
 }
 
-.blue-bg {
+.blue {
   background-color: #c1f0fb;
 }
 
-.green-bg {
+.green {
   background-color: #dcf9a8;
 }
 
-.lilac-bg {
+.lilac {
   background-color: #e0cdff;
 }
