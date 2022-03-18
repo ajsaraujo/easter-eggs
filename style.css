@@ -1,0 +1,53 @@
+body {
+  padding: 16px;
+}
+
+header {
+  margin-bottom: 36px;
+}
+
+header * {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+header p {
+  font-size: 24px;
+}
+
+section {
+  margin-bottom: 24px;
+}
+
+section h2 {
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+.subsection {
+  margin-bottom: 16px;
+}
+
+.subsection h3,
+.pricing h3 {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.subsection ul {
+  padding: 0 4px;
+}
+
+.subsection li {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
