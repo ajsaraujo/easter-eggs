@@ -8,7 +8,7 @@ section:last-of-type {
 }
 
 header {
-  margin-bottom: 36px;
+  padding: 18px 0;
 }
 
 header * {
@@ -24,7 +24,7 @@ header p {
 }
 
 section {
-  margin-bottom: 24px;
+  padding: 24px 16px;
 }
 
 section h2 {
@@ -55,4 +55,24 @@ section h2 {
   display: flex;
   justify-content: space-between;
   margin-bottom: 8px;
+}
+
+.pink-bg {
+  background-color: #f9ceee;
+}
+
+.yellow-bg {
+  background-color: #ffebaf;
+}
+
+.blue-bg {
+  background-color: #c1f0fb;
+}
+
+.green-bg {
+  background-color: #dcf9a8;
+}
+
+.lilac-bg {
+  background-color: #e0cdff;
 }
