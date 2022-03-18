@@ -1,4 +1,9 @@
-body {
+section {
+  padding: 0 16px;
+}
+
+header,
+section:last-of-type {
   padding: 16px;
 }
 
